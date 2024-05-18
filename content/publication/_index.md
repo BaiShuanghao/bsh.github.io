@@ -13,4 +13,10 @@ view: 2
 banner:
   caption: ''
   image: ''
+
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  
 ---

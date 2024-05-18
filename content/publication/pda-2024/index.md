@@ -5,13 +5,18 @@ title: 'Prompt-based Distribution Alignment for Unsupervised Domain Adaptation'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Bai, Shuanghao 
+  - Zhang, Min
+  - Zhou, Wanqi 
+  - Huang, Siteng
+  - Luan, Zhirong
+  - Wang, Donglin 
+  - Chen, Badong
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+  - 
 
 date: '2024-01-01T00:00:00Z'
 doi: ''

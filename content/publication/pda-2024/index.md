@@ -62,7 +62,7 @@ url_video: ''
 image:
   caption: 'Model'
   focal_point: ''
-  preview_only: true
+  preview_only: False
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

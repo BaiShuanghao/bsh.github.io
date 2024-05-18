@@ -68,7 +68,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Model'
-  focal_point: 'center'
+  focal_point: ''
   preview_only: False
 
 # Associated Projects (optional).

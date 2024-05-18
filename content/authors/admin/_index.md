@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 白双豪
+title: Shuanghao Bai
 
 # Name pronunciation (optional)
-name_pronunciation: Shuanghao Bai
+name_pronunciation: 白双豪
 
 # Full name (for SEO)
 first_name: Shuanghao

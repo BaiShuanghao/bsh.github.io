@@ -48,14 +48,22 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2312.09553'
-url_code: 'https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: 'https://arxiv.org/pdf/2312.09553'
+# url_code: 'https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
+
+links:
+- name: paper
+  url: https://arxiv.org/pdf/2312.09553
+
+links:
+- name: code
+  url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

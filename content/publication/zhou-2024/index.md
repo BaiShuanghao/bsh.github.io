@@ -7,7 +7,7 @@ authors:
 - Qibin Zhao
 - Badong Chen
 date: '2024-04-01'
-publishDate: '2024-05-16T15:08:29.085105Z'
+publishDate: '2024-05-18T14:37:43.347806Z'
 publication_types:
 - article-journal
 abstract: Pretrained vision-language models (VLMs) like CLIP have shown impressive

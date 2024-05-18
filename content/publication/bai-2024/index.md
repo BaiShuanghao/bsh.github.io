@@ -9,7 +9,7 @@ authors:
 - Donglin Wang
 - Badong Chen
 date: '2024-01-01'
-publishDate: '2024-05-16T15:08:29.065575Z'
+publishDate: '2024-05-18T14:37:43.327718Z'
 publication_types:
 - manuscript
 abstract: Recently, despite the unprecedented success of large pre-trained visual-language

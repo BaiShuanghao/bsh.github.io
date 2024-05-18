@@ -61,7 +61,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Model'
-  focal_point: ''
+  focal_point: 'center'
   preview_only: False
 
 # Associated Projects (optional).

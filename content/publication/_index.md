@@ -14,9 +14,4 @@ banner:
   caption: ''
   image: ''
 
-imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-  
 ---

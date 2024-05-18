@@ -61,7 +61,6 @@ links:
 - name: paper
   url: https://arxiv.org/pdf/2312.09553
 
-links:
 - name: code
   url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
 
@@ -70,7 +69,7 @@ links:
 image:
   caption: 'Model'
   focal_point: 'center'
-  preview_only: False
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

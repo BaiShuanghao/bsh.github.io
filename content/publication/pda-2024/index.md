@@ -69,7 +69,7 @@ links:
 image:
   caption: 'Model'
   focal_point: 'center'
-  preview_only: True
+  preview_only: False
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

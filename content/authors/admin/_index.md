@@ -29,8 +29,8 @@ bio: My research interests include out-of-distribution generalization (domain ad
 
 # Interests to show in About widget
 interests:
-  - Domain Adaptation
-  - Domain Gneralization
+  - Domain Adaptation / Domain Gneralization
+  - Foundation Models
   - Robotics
 
 # Education to show in About widget

@@ -38,10 +38,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Xi'an Jiaotong University
-      year: 2022
+      year: 2022-2027
     - course: BSc in Automation
       institution: Chongqing University
-      year: 2018
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

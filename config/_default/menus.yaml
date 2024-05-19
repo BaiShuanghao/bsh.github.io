@@ -17,10 +17,10 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
   - name: Preprints
-    url: '#featured'
+    url: '#preprints'
     weight: 30
   # - name: Contact
   #   url: '#contact'

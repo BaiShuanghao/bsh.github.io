@@ -210,7 +210,7 @@ sections:
   #     view: card
 
   - block: collection
-    id: Publications
+    id: publications
     content:
       title: Published Publications
       text: |-
@@ -226,7 +226,7 @@ sections:
       view: citation 
 
   - block: collection
-    id: Preprints
+    id: preprints
     content:
       title: Preprints & Under Submission
       text: |-

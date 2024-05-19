@@ -97,9 +97,12 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/BaiShuanghao
@@ -117,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am a second-year Ph.D. of artificial intelligence at Xi'an Jiaotong University, advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). My research interests include out-of-distribution generalization (domain adaptation, domain gneralization, etc.), robotics. 
+I am a second-year Ph.D. of artificial intelligence at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). My research interests include out-of-distribution generalization (domain adaptation, domain gneralization, etc.), robotics. 
 {style="text-align: justify;"}

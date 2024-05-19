@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). My research interests include out-of-distribution generalization (domain adaptation, domain gneralization, etc.), robotics. 
+I am a second-year Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
 {style="text-align: justify;"}

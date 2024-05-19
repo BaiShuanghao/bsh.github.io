@@ -1,5 +1,5 @@
 ---
-title: Preprints & Under Submission
+title: Preprints
 cms_exclude: true
 
 # View.

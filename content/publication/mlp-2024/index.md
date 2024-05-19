@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP*
+publication_short: In *ICASSP 2024*
 
 abstract: Cross-domain few-shot classification (CDFSC) is a challenging and tough task due to the significant distribution discrepancies across different domains. To address this challenge, many approaches aim to learn transferable representations. Multilayer perceptron (MLP) has shown its capability to learn transferable representations in various downstream tasks, such as unsupervised image classification and supervised concept generalization. However, its potential in the few-shot settings has yet to be comprehensively explored. In this study, we investigate the potential of MLP to assist in addressing the challenges of CDFSC. Specifically, we introduce three distinct frameworks incorporating MLP in accordance with three types of few-shot classification methods to verify the effectiveness of MLP. We reveal that MLP can significantly enhance discriminative capabilities and alleviate distribution shifts, which can be supported by our expensive experiments involving 10 baseline models and 12 benchmark datasets. Furthermore, our method even compares favorably against other state-of-the-art CDFSC algorithms.
 

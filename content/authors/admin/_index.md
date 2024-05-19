@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Shuanghao Bai is a Ph.D. of artificial intelligence at Xi'an Jiaotong University. His research interests include out-of-distribution generalization (domain adaptation, domain gneralization), robotics. 
+I am a second-year Ph.D. of artificial intelligence at Xi'an Jiaotong University, advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). My research interests include out-of-distribution generalization (domain adaptation, domain gneralization, etc.), robotics. 
 {style="text-align: justify;"}

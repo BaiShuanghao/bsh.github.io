@@ -211,7 +211,7 @@ sections:
 
   - block: collection
     content:
-      title: Publications
+      title: Published Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -222,7 +222,22 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
+
+  - block: collection
+    content:
+      title: Preprints & Under Submission
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering preprints](./preprints/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - preprints
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
 
   # - block: collection
   #   id: talks

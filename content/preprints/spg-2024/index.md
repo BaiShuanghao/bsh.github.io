@@ -8,6 +8,10 @@ authors:
   - Zhirong Luan
   - Badong Chen
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2024-03-01T00:00:00Z"
 doi: ""
 

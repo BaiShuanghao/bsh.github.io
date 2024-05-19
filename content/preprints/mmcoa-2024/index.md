@@ -2,21 +2,20 @@
 title: "Soft Prompt Generation for Domain Generalization"
 
 authors:
-  - Admin
-  - Yuedi Zhang
   - Wanqi Zhou
-  - Zhirong Luan
+  - Admin
+  - Qibin Zhao
   - Badong Chen
   
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2024-03-01T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

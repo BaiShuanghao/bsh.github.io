@@ -56,11 +56,11 @@ featured: False
 # url_video: ''
 
 links:
-- name: Paper
-  url: https://arxiv.org/pdf/2405.08779
+  - name: Paper
+    url: https://arxiv.org/pdf/2405.08779
 
-- name: Code
-  url: https://github.com/ElleZWQ/JRNGC
+  - name: Code
+    url: https://github.com/ElleZWQ/JRNGC
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

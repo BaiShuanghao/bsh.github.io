@@ -47,8 +47,8 @@ featured: false
 # url_video: ''
 
 links:
-- name: Paper
-  url: https://www.mdpi.com/1424-8220/24/5/1687
+  - name: Paper
+    url: https://www.mdpi.com/1424-8220/24/5/1687
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

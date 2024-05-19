@@ -38,7 +38,7 @@ abstract: Recently, despite the unprecedented success of large pre-trained visua
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: ['Domain Adaptation', 'Prompt Tuning', 'Generalization']
+tags: ['Domain Adaptation', 'Vision Language Models', 'Prompt Tuning', 'Generalization']
 
 # Display this page in the Featured widget?
 featured: False
@@ -58,11 +58,11 @@ featured: False
 # url_video: ''
 
 links:
-- name: Paper
-  url: https://arxiv.org/pdf/2312.09553
+  - name: Paper
+    url: https://arxiv.org/pdf/2312.09553
 
-- name: Code
-  url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
+  - name: Code
+    url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

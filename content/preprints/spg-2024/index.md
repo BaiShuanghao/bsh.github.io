@@ -21,7 +21,7 @@ publishDate: "2024-03-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -32,7 +32,7 @@ abstract: Large pre-trained vision language models (VLMs) have shown impressive 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: ['Domain Generalization', 'Prompt Tuning', 'Generalization']
+tags: ['Domain Generalization', 'Vision Language Models', 'Prompt Tuning', 'Generalization']
 
 featured: false
 
@@ -49,8 +49,8 @@ links:
 # url_video: '#'
 
 links:
-- name: Paper
-  url: https://arxiv.org/pdf/2404.19286
+  - name: Paper
+    url: https://arxiv.org/pdf/2404.19286
 
 # - name: Code
 #   url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment

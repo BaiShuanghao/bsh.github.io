@@ -1,5 +1,5 @@
 ---
-title: "Soft Prompt Generation for Domain Generalization"
+title: "Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective"
 
 authors:
   - Wanqi Zhou
@@ -20,7 +20,7 @@ publishDate: "2024-04-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -48,8 +48,11 @@ links:
 # url_video: '#'
 
 links:
-- name: Paper
-  url: https://arxiv.org/pdf/2404.19287
+  - name: Paper
+    url: https://arxiv.org/pdf/2404.19287
+
+  - name: Code
+    url: https://github.com/ElleZWQ/MMCoA
 
 # - name: Code
 #   url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment

@@ -212,7 +212,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Published Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -231,7 +231,7 @@ sections:
       title: Preprints & Under Submission
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering preprints](./preprints/).
+        Quickly discover relevant content by [filtering preprints](./preprint/).
         {{% /callout %}}
       filters:
         folders:

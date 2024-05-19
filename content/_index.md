@@ -225,8 +225,8 @@ sections:
       columns: '2'
       view: citation 
 
-  # - block: collection
-  #   id: preprints
+  - block: collection
+    id: preprints
     content:
       title: Preprints & Under Submission
       text: |-

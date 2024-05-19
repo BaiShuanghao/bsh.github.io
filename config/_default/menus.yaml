@@ -19,9 +19,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  # - name: Preprints
-  #   url: '#preprints'
-  #   weight: 30
+  - name: Preprints
+    url: '#preprints'
+    weight: 30
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

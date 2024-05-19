@@ -235,7 +235,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - preprints
+          - preprint
         exclude_featured: true
     design:
       columns: '2'

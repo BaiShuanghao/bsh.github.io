@@ -222,7 +222,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      view: citation 
 
   - block: collection
     content:
@@ -237,7 +237,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      view: citation 
 
   # - block: collection
   #   id: talks

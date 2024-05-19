@@ -1,16 +1,14 @@
 ---
-title: 'Prompt-based Distribution Alignment for Unsupervised Domain Adaptation'
+title: 'Jacobian Regularizer-based Neural Granger Causality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Admin 
-  - Min Zhang
   - Wanqi Zhou 
-  - Siteng Huang
-  - Zhirong, Luan
-  - Donglin Wang  
+  - Admin 
+  - Shujian Yu
+  - Qibin Zhao
   - Badong Chen
 
 # Author notes (optional)
@@ -18,11 +16,11 @@ author_notes:
   - 
   - 
 
-date: '2024-02-01T00:00:00Z'
+date: '2024-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-02-01T00:00:00Z'
+publishDate: '2024-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,15 +28,15 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Association for the Advancement of Artificial Intelligence*
-publication_short: In *AAAI*
+publication: In *International Conference on Machine Learning*
+publication_short: In *ICML*
 
-abstract: Recently, despite the unprecedented success of large pre-trained visual-language models (VLMs) on a wide range of downstream tasks, the real-world unsupervised domain adaptation (UDA) problem is still not well explored. Therefore, in this paper, we first experimentally demonstrate that the unsupervised-trained VLMs can significantly reduce the distribution discrepancy between source and target domains, thereby improving the performance of UDA. However, a major challenge for directly deploying such models on downstream UDA tasks is prompt engineering, which requires aligning the domain knowledge of source and target domains , since the performance of UDA is severely influenced by a good domain-invariant representation. We further propose a Prompt-based Distribution Alignment (PDA) method to incorporate the domain knowledge into prompt learning. Specifically, PDA employs a two-branch prompt-tuning paradigm, namely base branch and alignment branch. The base branch focuses on integrating class-related representation into prompts, ensuring discrimination among different classes. To further minimize domain discrepancy, for the alignment branch, we construct feature banks for both the source and target domains and propose image-guided feature tuning (IFT) to make the input attend to feature banks, which effectively integrates self-enhanced and cross-domain features into the model. In this way, these two branches can be mutually promoted to enhance the adaptation of VLMs for UDA. We conduct extensive experiments on three benchmarks to demonstrate that our proposed PDA achieves state-of-the-art performance. The code is available at https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment.
+abstract: With the advancement of neural networks, diverse methods for neural Granger causality have emerged, which demonstrate proficiency in handling complex data, and nonlinear relationships. However, the existing framework of neural Granger causality has several limitations. It requires the construction of separate predictive models for each target variable, and the relationship depends on the sparsity on the weights of the first layer, resulting in challenges in effectively modeling complex relationships between variables as well as unsatisfied estimation accuracy of Granger causality. Moreover, most of them cannot grasp full-time Granger causality. To address these drawbacks, we propose a Jacobian Regularizer-based Neural Granger Causality (JRNGC) approach, a straightforward yet highly effective method for learning multivariate summary Granger causality and full-time Granger causality by constructing a single model for all target variables. Specifically, our method eliminates the sparsity constraints of weights by leveraging an input-output Jacobian matrix regularizer, which can be subsequently represented as the weighted causal matrix in the post-hoc analysis. Extensive experiments show that our proposed approach achieves competitive performance with the state-of-the-art methods for learning summary Granger causality and full-time Granger causality while maintaining lower model complexity and high scalability.
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: ['Domain Adaptation', 'Prompt Tuning', 'Generalization']
+tags: ['Granger Causality', 'Jacobian Regularizer', 'Generalization']
 
 # Display this page in the Featured widget?
 featured: False
@@ -59,15 +57,15 @@ featured: False
 
 links:
 - name: Paper
-  url: https://arxiv.org/pdf/2312.09553
+  url: https://arxiv.org/pdf/2405.08779
 
 - name: Code
-  url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
+  url: https://github.com/ElleZWQ/JRNGC
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model'
+  caption: 'Framework'
   focal_point: ''
   preview_only: False
 

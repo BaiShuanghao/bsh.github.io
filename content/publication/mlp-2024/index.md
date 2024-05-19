@@ -56,10 +56,10 @@ featured: False
 # url_video: ''
 
 links:
-- name: paper
+- name: Paper
   url: https://arxiv.org/pdf/2312.09589
 
-- name: code
+- name: Code
   url: https://github.com/BaiShuanghao/CDFSC-MLP
 
 # Featured image

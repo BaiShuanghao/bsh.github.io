@@ -27,7 +27,13 @@ publication_types: ["paper-conference"]
 publication: In *European Conference onComputer Vision*
 publication_short: In *ECCV 2024*
 
-abstract: Large pre-trained vision language models (VLMs) have shown impressive zero-shot ability on downstream tasks with manually designed prompt, which are not optimal for specific domains. To further adapt VLMs to downstream tasks, soft prompt is proposed to replace manually designed prompt, which acts as a learning vector that undergoes fine-tuning based on specific domain data. Prior prompt learning methods primarily learn a fixed prompt and residuled prompt from training samples. However, the learned prompts lack diversity and ignore information about unseen domains, potentially compromising the transferability of the prompts. In this paper, we reframe the prompt learning framework from a generative perspective and propose a simple yet efficient method for the Domain Generalization (DG) task, namely \textbf{S}oft \textbf{P}rompt \textbf{G}eneration (SPG). To the best of our knowledge, we are the first to introduce the generative model into prompt learning in VLMs and explore its potential for producing soft prompts by relying solely on the generative model, ensuring the diversity of prompts. Specifically, SPG consists of a two-stage training phase and an inference phase. During the training phase, we introduce soft prompt labels for each domain, aiming to incorporate the generative model domain knowledge. During the inference phase, the generator of the generative model is employed to obtain instance-specific soft prompts for the unseen target domain. Extensive experiments on five domain generalization benchmarks of three DG tasks demonstrate that our proposed SPG achieves state-of-the-art performance. The code will be available soon.
+abstract: Large pre-trained vision language models (VLMs) have shown impressive zero-shot ability on downstream tasks with manually designed prompt. 
+To further adapt VLMs to downstream tasks, soft prompt is proposed to replace manually designed prompt, which undergoes fine-tuning based on specific domain data.
+Prior prompt learning methods primarily learn a fixed prompt and residuled prompt from training samples. However, the learned prompts lack diversity and ignore information about unseen domains.
+In this paper, we reframe the prompt learning framework from a generative perspective and propose a simple yet efficient method for the Domain Generalization (DG) task, namely \textbf{S}oft \textbf{P}rompt \textbf{G}eneration (SPG).
+Specifically, SPG consists of a two-stage training phase and an inference phase. During the training phase, we introduce soft prompt label for each domain, aiming to incorporate the generative model domain knowledge. During the inference phase, the generator of the generative model is employed to obtain instance-specific soft prompts for the unseen target domain.
+Extensive experiments on five domain generalization benchmarks of three DG tasks demonstrate that SPG achieves state-of-the-art performance.
+The code is available at https://github.com/renytek13/Soft-Prompt-Generation-with-CGAN.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -52,8 +58,9 @@ links:
   - name: Paper
     url: https://arxiv.org/pdf/2404.19286
 
-# - name: Code
-#   url: https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment
+  - name: Code
+    url: https://github.com/renytek13/Soft-Prompt-Generation-with-CGAN
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

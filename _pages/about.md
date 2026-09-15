@@ -25,8 +25,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Shuanghao Bai (白双豪 in Chinese). I am a fourth-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), where I am advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd).
-Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Min Zhao](https://accu.cqu.edu.cn/info/1375/9156.htm).
+My name is Shuanghao Bai (白双豪 in Chinese). I am a final-year direct Ph.D. student in Artificial Intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd). Prior to my doctoral studies, I received my Bachelor’s degree in Automation from Chongqing University in 2022, under the supervision of Prof. [Min Zhao](https://accu.cqu.edu.cn/info/1375/9156.htm).
+
+I am also a co-founder of [Symbiosis Robotics (共生知行)](https://symbiosis-robotics.com/research/dpc/en/), where we focus on developing intelligent “brains” for bipedal humanoid robots, with the long-term vision of bringing humanoid robots into everyday homes and daily life.
 
 🔭 My research interests lie in generalization in computer vision and robot learning, vision-language models, and vision-language-action models.
 
@@ -38,6 +39,10 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
 
 
 # 🔥 News
+
+- [2026/09/05]&#58; [HAF](https://arxiv.org/abs/2608.16837) is accepted by CoRL 2026.
+
+- [2026/08/27]&#58; [GIRVFM](https://ieeexplore.ieee.org/abstract/document/11674245) is accepted by IEEE TGRS 2026.
 
 - [2026/08/24]&#58; 《[Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives](https://arxiv.org/abs/2512.22983)》 is accepted by IEEE T-RO 2026.
 
@@ -164,6 +169,9 @@ Prior to my doctoral studies, I received my Bachelor’s degree in Automation fr
   </div>
 </div>
 
+<img src="https://img.shields.io/badge/TGRS-2026-228B22?style=flat-square">
+Yazhou Ma, Lei Xing, <strong><u>Shuanghao Bai</u></strong>, Jun Zhou, Badong Chen.  &quot;**GIRVFM: Taming Vision Foundation Models for Improved Generalization in Infrared Small Target Detection**&quot;.  [[Paper](https://ieeexplore.ieee.org/abstract/document/11674245/)]
+
 <img src="https://img.shields.io/badge/T--RO-2026-228B22?style=flat-square">
 <strong><u>Shuanghao Bai</u></strong>, Wenxuan Song, Jiayi Chen, Yuheng Ji, Zhide Zhong, Jin Yang, Han Zhao, Wanqi Zhou, Zhe Li, Pengxiang Ding, Cheng Chi, Chang Xu, Xiaolong Zheng, Donglin Wang, Haoang Li, Shanghang Zhang, Badong Chen.  &quot;**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**&quot;.  [[arXiv](https://arxiv.org/abs/2512.22983)] [[GitHub](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)]
 
@@ -183,7 +191,7 @@ Haoran Zhang<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Wan
 Yuedi Zhang, <strong><u>Shuanghao Bai</u></strong>, Wanqi Zhou, Zhirong Luan, Badong Chen.  &quot;**Dual-Path Stable Soft Prompt Generation for Domain Generalization**&quot;.  [[arXiv](https://arxiv.org/abs/2505.18770)] [[GitHub](https://github.com/renytek13/Dual-Path-Stable-Soft-Prompt-Generation)]
 
 <img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square"> 
-Yiguo Fan<sup>*</sup>, Pengxiang Ding<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Xinyang Tong<sup>*</sup>, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang.  &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;.  [[arXiv](https://arxiv.org/abs/2508.19958)] [[Project](https://long-vla.github.io/)]
+Yiguo Fan<sup>*</sup>, Pengxiang Ding<sup>*</sup>, <strong><u>Shuanghao Bai<sup>*</sup></u></strong>, Xinyang Tong<sup>*</sup>, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang.  &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;.  [[Paper](https://proceedings.mlr.press/v305/fan25a.html)] [[arXiv](https://arxiv.org/abs/2508.19958)] [[Project](https://long-vla.github.io/)]
 
 <img src="https://img.shields.io/badge/NN-2025-228B22?style=flat-square"> 
 Wanqi Zhou, <strong><u>Shuanghao Bai</u></strong>, Qibin Zhao, Badong Chen.  &quot;**An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery**&quot;.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965)] [[GitHub](https://github.com/ElleZWQ/MHCD)]
